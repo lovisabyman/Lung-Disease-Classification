@@ -5,6 +5,8 @@ The dataset used in this project was the ChestX-Det dataset [1]. The network use
 
 
 
+
+
 [1] Deepwise AILab. ChestX-Det Dataset. https://github.com/Deepwise-AILab/ChestX-Det-Dataset. Accessed: 2022-12-05.
 
 [2] Alexey Dosovitskiy, Lucas Beyer, Alexander Kolesnikov, Dirk Weissenborn, Xiaohua Zhai, Thomas Unterthiner, Mostafa Dehghani, Matthias Minderer, Georg Heigold, Sylvain Gelly, Jakob Uszkoreit, and Neil Houlsby. An image is worth 16x16 words: Transformers for image recognition at scale. In International Conference on Learning Representations, 2021.
